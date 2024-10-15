@@ -1,0 +1,28 @@
+.signinputCusLast{
+    position: relative;
+    top:2.5rem;
+    right: 20rem;
+}
+
+.signinputCusFirst input{
+    position: relative;
+    top:1rem;
+}
+.signinputCusFirst label{
+    font-weight: bold;
+}
+.cusbtnFourth button{
+    margin-top: 1rem;
+}
+.backbtnCus{
+    border-color: #f67d1c;
+    color: #f67d1c;
+
+}
+.backbtnCus:hover{
+    border-color: black;
+}
+.alert{
+    position: relative;
+    top:1rem;
+}

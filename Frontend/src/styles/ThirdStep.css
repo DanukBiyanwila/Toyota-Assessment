@@ -1,0 +1,65 @@
+.streetcus{
+    width : 20%; 
+}
+.cityCus{
+    width: 10% ; 
+}
+.StateCus{
+    width: 9% ; 
+    position: absolute;
+    top: 17.4rem;
+    left: 15.5rem ; 
+}
+.zipCus{
+    width : 17% ; 
+    position: absolute;
+    top: 17.4rem;
+    left: 24.5rem
+}
+.apartmentCus{
+    width:18% ; 
+    position: absolute;
+    top:14.1rem; 
+    left:23.5rem
+}
+.countryCus{
+    position: relative;
+    top: -2.5rem;
+    width:41.5%;
+}
+.diliveryLable{
+    position: relative;
+    top:-2rem;
+}
+.diliveryarea{
+    position: relative;
+    top: -2rem;
+    width: 41.5%;
+}
+.mainContacttextCus{
+    position: relative;
+    top:-1.5rem; 
+    font-weight: bold;
+}
+.numTextCus{
+    font-weight: bold;
+}
+
+
+.mainNumbers input{
+    width:20%; 
+}
+.mainNum2 , .secNUm2{
+    position: relative;
+    right: 21rem;
+}
+.mainNum3,.secNum3 {
+    position: relative;
+    right: 42rem;
+}
+.cusSecNum input{
+    width : 20% ; 
+}
+.emailCus{
+    width: 40%; 
+}

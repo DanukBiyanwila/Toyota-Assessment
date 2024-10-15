@@ -1,0 +1,135 @@
+.cuscol{
+
+    position: relative;
+    top:1.5rem;
+    right: 20rem
+    
+    
+}
+
+.col input{
+    width:20rem ; 
+}
+
+.labaleName{
+    font-weight: bold;
+}
+
+.lablecus{
+    position: relative;
+    left:-11.7rem; 
+}
+.cusLable{
+    color:red
+}
+.d-flex input{
+    width: 5rem; 
+}
+.cusinput{
+    float : left;
+    margin-right: 3rem;
+    position: relative;
+    top:2rem;
+}
+.cusphototxt{
+    margin-top: 2rem;
+    
+
+}
+
+.input-group input {
+    width : 5rem ; 
+}
+
+.cusbtn{
+    position: relative;
+    left:5rem; 
+   
+}
+.NextStepBtn:hover , .backbtn:hover {
+    border: 2px solid black; 
+}
+.backbtn{
+    position: relative;
+    left : 50rem ;     
+    border-color: #f67d1c;
+    color: #f67d1c;
+   
+}
+.NextStepBtn{
+    position: relative;
+    right: 8rem;
+    background-color: #f67d1c;
+    color: white;
+   
+
+}
+
+.circle {
+    background-color: #512D6D; /* Dark purple color */
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.circle.active {
+    background-color: #FF8A00; /* Orange color for the active step */
+}
+
+.line {
+    height: 5px;
+    background-color: #512D6D;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1;
+}
+
+.line.left {
+    width: 50%;
+    left: 0;
+}
+
+.line.right {
+    width: 50%;
+    right: 0;
+}
+
+.progress-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.progress-bar li {
+    position: relative;
+    flex: 1;
+    text-align: center;
+}
+
+.additionalCheckFirst{
+    width:20rem ; 
+}
+.additionalCheckSecond{
+    width:20rem ; 
+    position: relative;
+    left: 21.5rem;
+    top:-3.3rem; 
+}
+.cuschekboxFirst{
+    width:20rem ;
+    position: relative;
+    top : -3rem ; 
+
+}
+

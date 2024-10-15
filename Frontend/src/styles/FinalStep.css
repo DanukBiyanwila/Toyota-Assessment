@@ -1,0 +1,53 @@
+.backbtnlast {
+    color: white;
+    background-color: rgb(50, 4, 50);
+    position: relative;
+    top: 10rem;
+    left: 13rem;
+    border: none; 
+    transition: border 0.3s; 
+}
+
+.backbtnlast:hover {
+    border: 2px solid black; 
+}
+
+.reportbtn{
+    border-color: #f67d1c;
+
+    background-color: #f67d1c;
+    color: #ffffff;
+    position: relative;
+    top:10rem;
+    left:-15rem
+}
+.reportbtn:hover {
+    border: 2px solid black; 
+}
+
+
+.lastTitle{
+    position: relative;
+    top: 2rem;
+}
+.cusp1{
+    position: relative;
+    top:5rem;
+}
+
+.cusp2{
+    position: relative;
+    top: 5rem;
+}
+
+.cusp3{
+    position: relative;
+    top :5rem; 
+}
+.linkCus1{
+    color:blue; 
+    text-decoration: underline;
+}
+.linkCus2{
+    color: blue;
+}
