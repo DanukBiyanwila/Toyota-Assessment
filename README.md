@@ -70,5 +70,5 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/DanukBiyanwila/Toyota-Assessment.git
+cd Toyota-Assessment
