@@ -55,7 +55,7 @@ git clone https://github.com/DanukBiyanwila/Toyota-Assessment.git
 cd Toyota-Assessment
 
 
-![1](https://github.com/user-attachments/assets/8fa5c241-ec9b-4e9d-81a6-94d61bd28459)
+![2](https://github.com/user-attachments/assets/22fc442a-4f0d-4170-8677-a72fab88628c)
 
 ![2](https://github.com/user-attachments/assets/cb3c773f-d9e3-41cb-8360-cc3be0c74733)
 
